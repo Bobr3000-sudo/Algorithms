@@ -10,7 +10,7 @@ int main()
     // 18 11 12 0 17
     // 13 13 14 17 0
 
-
+    //From presentation
     //66
     int n;
     std::cout << "size of matrix: ";
